@@ -35,6 +35,13 @@ Projeto Backend desenvolvido como primeira etapa do processo, neste projeto é r
 
 Feitos os envios de mensagens, é possível visualizar através da requisição pelo Insomnia o retorno das 3 últimas mensagens. Utilizando o Prisma, é possível visualizar tanto registros de usuário quanto mensagens no banco de dados.
 
+Este repositório faz parte da seguinte stack:
+
+- [Backend - Node.js](https://github.com/AndreNavarro/NLW07-DoWhile-Node) 👈 Você está aqui
+- [Front end - React.js](https://github.com/AndreNavarro/NLW07-DoWhile-React)
+- [Mobile - React Native](https://github.com/AndreNavarro/NLW07-DoWhile-React-Native)
+- [Backend - Elixir](https://github.com/AndreNavarro/NLW07-DoWhile-Elixir)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/GaOSAvvH1R6edFXSpBJmd3/%5BNLW-Heat---Mission%3A-Impulse%5D-DoWhile2021-(Community)?node-id=2%3A3). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
